@@ -1,0 +1,19 @@
+# Generated .pmc file - do not edit!
+package Testorz;
+
+sub works {
+    print "This works";
+}
+
+# orz !!!
+# 
+# sub busted {
+#     say "orz!";
+# }
+
+sub ok {
+    print "ok";
+}
+
+1;
+

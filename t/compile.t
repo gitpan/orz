@@ -19,7 +19,7 @@ sub works {
     print "This works";
 }
 
-# orz !!!
+# orz...
 # 
 # sub busted {
 #     say "orz!";

@@ -1,9 +1,7 @@
 abstract: Total Failure
 author: "Ingy d\xC3\xB6t Net <ingy@cpan.org>"
-build_requires: 
-  Test::Base: 0.50
 distribution_type: module
-generated_by: Module::Install version 0.54
+generated_by: Module::Install version 0.61
 license: perl
 name: orz
 no_index: 
@@ -11,6 +9,6 @@ no_index:
     - inc
     - t
 requires: 
-  Module::Compile: 0.12
+  Module::Compile: 0.16
   perl: 5.6.1
-version: 0.11
+version: 0.12

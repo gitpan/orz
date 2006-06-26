@@ -2,14 +2,13 @@ package orz;
 use 5.006001;
 use strict;
 use warnings;
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use Module::Compile -base;
 
 sub pmc_compile {
-    my ($class, $source) = @_;
-    $source =~ s/^/# /gm;
-    return "# orz...\n$source"; 
+    s/^/# /gm;
+    return "# orz...\n$_"; 
 }
 
 1;

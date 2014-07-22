@@ -14,5 +14,4 @@ lib/orz.pm
 lib/orz.pod
 t/compile.t
 t/lib/Testorz.pm
-t/lib/Testorz.pmc
 t/release-pod-syntax.t

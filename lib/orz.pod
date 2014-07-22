@@ -1,32 +1,35 @@
-=encoding utf8
-
-=head1 NAME
+=head1 Name
 
 orz - Total Failure
 
-=head1 SYNOPSIS
+=head1 Synopsis
 
     use orz;
 
     # failing code here
-    
+
     no orz;
 
-=head1 DESCRIPTION
+=head1 Description
 
 When you just can't get your code to work, admit you are a total failure.
 
-=head1 AUTHOR
+=head1 See Also
 
-Ingy döt Net <ingy@ingy.net>
+=over
 
-=head1 COPYRIGHT AND LICENSE
+=item * L<worky>
 
-Copyright (c) 2011. Ingy döt Net.
+=back
 
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+=head1 Author
 
-See http://www.perl.com/perl/misc/Artistic.html
+Ingy döt Net <ingy@cpan.org>
 
-=cut
+=head1 Copyright and License
+
+Copyright (c) 2006-2014. Ingy döt Net.
+
+This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+See L<http://www.perl.com/perl/misc/Artistic.html>

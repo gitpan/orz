@@ -1,21 +1,16 @@
----
-version: 0.13
-date:    Fri Jun 10 22:03:52 EST 2011
-changes:
-- Fix bug caused by Module::Compile change
-- Upgrade to Module::Package
----
-version: 0.12
-date:    Mon Jun 26 14:43:01 CDT 2006
-changes:
-- Better testing.
----
-version: 0.11
-date:    Sun Mar 12 21:15:07 PST 2006
-changes:
-- Patch from ISHIGAKI Kenichi. orz...
----
-version: 0.10
-date:    Sun Mar 12 10:05:28 PST 2006
-changes:
-- Maiden voyage
+0.14 Mon Jul 21 17:02:36 PDT 2014
+ - Switch to Zilla::Dist
+
+0.13 Fri Jun 10 22:03:52 EST 2011
+ - Fix bug caused by Module::Compile change
+ - Upgrade to Module::Package
+
+0.12 Mon Jun 26 14:43:01 CDT 2006
+ - Better testing.
+
+0.11 Sun Mar 12 21:15:07 PST 2006
+ - Patch from ISHIGAKI Kenichi. orz...
+
+0.10 Sun Mar 12 10:05:28 PST 2006
+ - Maiden voyage
+

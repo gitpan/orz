@@ -1,7 +1,7 @@
 {
    "abstract" : "Total Failure",
    "author" : [
-      "Ingy döt Net <you@your.name>"
+      "Ingy döt Net <ingy@cpan.org>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.132830",
@@ -51,6 +51,6 @@
          "web" : "https://github.com/ingydotnet/orz-pm"
       }
    },
-   "version" : "0.15"
+   "version" : "0.16"
 }
 

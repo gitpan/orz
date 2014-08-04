@@ -1,25 +1,25 @@
-Name
+NAME
     orz - Total Failure
 
-Synopsis
+SYNOPSIS
         use orz;
 
         # failing code here
 
         no orz;
 
-Description
+DESCRIPTION
     When you just can't get your code to work, admit you are a total
     failure.
 
-See Also
+SEE ALSO
     *   worky
 
-Author
+AUTHOR
     Ingy döt Net <ingy@cpan.org>
 
-Copyright and License
-    Copyright (c) 2006-2014. Ingy döt Net.
+COPYRIGHT AND LICENSE
+    Copyright 2006-2014. Ingy döt Net.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.

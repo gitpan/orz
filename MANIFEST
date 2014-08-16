@@ -12,7 +12,6 @@ inc/Test/Base.pm
 inc/Test/Base/Filter.pm
 lib/orz.pm
 lib/orz.pod
-t/000-compile-modules.t
 t/compile.t
 t/lib/Testorz.pm
 t/release-pod-syntax.t

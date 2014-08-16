@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/orz-pm/issues
   homepage: https://github.com/ingydotnet/orz-pm
   repository: https://github.com/ingydotnet/orz-pm.git
-version: '0.20'
+version: '0.21'

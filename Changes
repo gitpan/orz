@@ -1,3 +1,6 @@
+0.22 Sat Aug 16 03:51:49 PDT 2014
+ - Eliminate spurious trailing whitespace
+
 0.21 Sat Aug 16 02:27:15 PDT 2014
  - Eliminate File::Basename from test/
 
